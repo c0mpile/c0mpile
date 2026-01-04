@@ -2,9 +2,6 @@
 
 ---
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mpile&show_icons=true&theme=radical&count_private=true)](https://github.com/c0mpile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0mpile&layout=compact&theme=radical)](https://github.com/c0mpile)
-
 ## About
 Full-time Linux nerd who also dabbles in Android modding.
 
@@ -15,10 +12,10 @@ Full-time Linux nerd who also dabbles in Android modding.
 ## My setup
 - OS: Arch Linux (btw)
 - WM: Hyprland
-- Terminal: kitty (meow)
+- Terminal: ghostty
 - Shell: zsh
-- Editors: neovim
-- Browser: Waterfox
+- Editor: neovim
+- Browser: Brave
 - Languages: C, Rust, Python, Shell
 
 
