@@ -1,7 +1,5 @@
 # Hi, I'm Kevin 👋
 
----
-
 ## About
 Full-time Linux nerd who also dabbles in Android modding.
 
