@@ -6,8 +6,8 @@ Full-time Linux nerd who also dabbles in Android modding.
 
 ## My setup
 - OS: Arch Linux (btw)
-- WM: mangowm
-- Terminal: ghostty
+- WM: Umbriel
+- Terminal: kitty
 - Shell: zsh
 - Editor: neovim
 
