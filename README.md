@@ -5,7 +5,7 @@ Full-time Linux nerd who also dabbles in Android modding.
 - Mostly found in: terminal, /etc, or tinkering with configs
 
 ## My setup
-- OS: Arch Linux (btw)
+- OS: Fedora
 - WM: Umbriel
 - Terminal: kitty
 - Shell: zsh
